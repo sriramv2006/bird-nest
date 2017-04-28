@@ -1,4 +1,4 @@
-# Project Overview: 
+# Project Overview 
 Habitat restoration and other land management practices are vital to the continued health 
 of open spaces, ecosystem functioning, and provision of ecosystem services, e.g., forestry,
 and agricultural production. On-the-ground ecological land management activities can be 
